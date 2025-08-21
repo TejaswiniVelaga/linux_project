@@ -1,0 +1,7 @@
+--- Logbook of Commands ---
+
+$ ls
+$ mkdir projects
+$ cd projects
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt
