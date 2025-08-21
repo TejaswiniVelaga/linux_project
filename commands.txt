@@ -1,0 +1,7 @@
+--- Favorite Linux Commands ---
+
+1. ls     - Lists files and directories in the current directory
+2. pwd    - Shows the present working directory
+3. cd     - Changes directory
+4. cat    - Displays the contents of a file
+5. echo   - Prints text or variables to the terminal
